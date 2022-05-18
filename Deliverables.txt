@@ -1,0 +1,14 @@
+Deliverables
+
+*1. Switch video to correct video
+*2. Create Video Data parent component
+*3. Add Video title to Video Data 
+*4. Add Video Stats to Video Data 
+*5. Create video votes
+*6. Add video votes up to Video Data
+*7. Add video votes down to Video Data
+8. Create Comment Section component
+9. Create Comment component
+10. Add comments to Comment Section component
+11. Add Hide Comment Button
+12. Add H8ide Comment Button Functionality
